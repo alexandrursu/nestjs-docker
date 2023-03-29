@@ -1,0 +1,7 @@
+/node_modules
+/dist
+docker_compose
+/**/*.DS_Store
+.vscode
+.idea
+/coverage
